@@ -1,0 +1,39 @@
+﻿<UserControl x:Class="WPF.PlayerCard"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WPF"
+             mc:Ignorable="d" 
+             d:DesignHeight="80" d:DesignWidth="80">
+
+
+    <Grid>
+
+        <Ellipse Grid.Row="0" MinHeight="80" MaxWidth="80" Margin="0,0,0,0">
+            <Ellipse.Fill>
+                <ImageBrush x:Name ="imgPlayerImage" 
+                            ImageSource="/WPF;component/profilePictureBackholder.png"
+                            Stretch="UniformToFill"
+                            />
+            </Ellipse.Fill>
+            
+        </Ellipse>
+        <TextBlock 
+            x:Name="lblName"
+            Text="Name and Surname"  
+            VerticalAlignment="Top" 
+            HorizontalAlignment="Center"
+            FontSize="7"
+            Margin="0 15 0 0"/>
+        <TextBlock 
+            x:Name="lblNumber"
+            Text="22"  
+            VerticalAlignment="Center" 
+            HorizontalAlignment="Center"
+            FontSize="40"
+            FontWeight="ExtraBold"
+            Foreground="Aquamarine"
+            Margin="0 0 0 0"/>
+    </Grid>
+</UserControl>

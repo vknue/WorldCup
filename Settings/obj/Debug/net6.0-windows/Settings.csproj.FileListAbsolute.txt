@@ -1,0 +1,17 @@
+C:\Users\valon\source\repos\NewRepo\WorldCup\Settings\bin\Debug\net6.0-windows\Settings.exe
+C:\Users\valon\source\repos\NewRepo\WorldCup\Settings\bin\Debug\net6.0-windows\Settings.deps.json
+C:\Users\valon\source\repos\NewRepo\WorldCup\Settings\bin\Debug\net6.0-windows\Settings.runtimeconfig.json
+C:\Users\valon\source\repos\NewRepo\WorldCup\Settings\bin\Debug\net6.0-windows\Settings.dll
+C:\Users\valon\source\repos\NewRepo\WorldCup\Settings\bin\Debug\net6.0-windows\Settings.pdb
+C:\Users\valon\source\repos\NewRepo\WorldCup\Settings\obj\Debug\net6.0-windows\Settings.csproj.AssemblyReference.cache
+C:\Users\valon\source\repos\NewRepo\WorldCup\Settings\obj\Debug\net6.0-windows\Settings.Settings.resources
+C:\Users\valon\source\repos\NewRepo\WorldCup\Settings\obj\Debug\net6.0-windows\Settings.csproj.GenerateResource.cache
+C:\Users\valon\source\repos\NewRepo\WorldCup\Settings\obj\Debug\net6.0-windows\Settings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valon\source\repos\NewRepo\WorldCup\Settings\obj\Debug\net6.0-windows\Settings.AssemblyInfoInputs.cache
+C:\Users\valon\source\repos\NewRepo\WorldCup\Settings\obj\Debug\net6.0-windows\Settings.AssemblyInfo.cs
+C:\Users\valon\source\repos\NewRepo\WorldCup\Settings\obj\Debug\net6.0-windows\Settings.csproj.CoreCompileInputs.cache
+C:\Users\valon\source\repos\NewRepo\WorldCup\Settings\obj\Debug\net6.0-windows\Settings.dll
+C:\Users\valon\source\repos\NewRepo\WorldCup\Settings\obj\Debug\net6.0-windows\refint\Settings.dll
+C:\Users\valon\source\repos\NewRepo\WorldCup\Settings\obj\Debug\net6.0-windows\Settings.pdb
+C:\Users\valon\source\repos\NewRepo\WorldCup\Settings\obj\Debug\net6.0-windows\Settings.genruntimeconfig.cache
+C:\Users\valon\source\repos\NewRepo\WorldCup\Settings\obj\Debug\net6.0-windows\ref\Settings.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ctxFtPxkn4aDNXO1hhSAwG+zFLIKlwyLWg5e8mHLSUJa7wgAUoY/HsEzGKzmaqBnw3CXjxUCHV/KkZ1yg6egWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\valon\\Documents\\Algebra\\Semestar 4\\.NET\\WorldCup\\WPF\\WPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\valon\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,161 @@
+{
+  "favouriteTeam": "SRB",
+  "favouritePlayers": [
+    {
+      "name": "Kyle WALKER",
+      "captain": false,
+      "shirt_number": 2,
+      "position": "Defender"
+    },
+    {
+      "name": "John STONES",
+      "captain": false,
+      "shirt_number": 5,
+      "position": "Defender"
+    },
+    {
+      "name": "Harry MAGUIRE",
+      "captain": false,
+      "shirt_number": 6,
+      "position": "Defender"
+    },
+    {
+      "name": "Mark MILLIGAN",
+      "captain": false,
+      "shirt_number": 5,
+      "position": "Defender"
+    },
+    {
+      "name": "Mathew LECKIE",
+      "captain": false,
+      "shirt_number": 7,
+      "position": "Forward"
+    },
+    {
+      "name": "Robbie KRUSE",
+      "captain": false,
+      "shirt_number": 10,
+      "position": "Forward"
+    },
+    {
+      "name": "Fidel ESCOBAR",
+      "captain": false,
+      "shirt_number": 4,
+      "position": "Defender"
+    },
+    {
+      "name": "Michael MURILLO",
+      "captain": false,
+      "shirt_number": 2,
+      "position": "Defender"
+    },
+    {
+      "name": "Roman TORRES",
+      "captain": true,
+      "shirt_number": 5,
+      "position": "Defender"
+    },
+    {
+      "name": "Manuel AKANJI",
+      "captain": false,
+      "shirt_number": 5,
+      "position": "Defender"
+    },
+    {
+      "name": "Stephan LICHTSTEINER",
+      "captain": true,
+      "shirt_number": 2,
+      "position": "Defender"
+    },
+    {
+      "name": "Haris SEFEROVIC",
+      "captain": false,
+      "shirt_number": 9,
+      "position": "Forward"
+    },
+    {
+      "name": "OSAMA HAWSAWI",
+      "captain": true,
+      "shirt_number": 3,
+      "position": "Defender"
+    },
+    {
+      "name": "OMAR HAWSAWI",
+      "captain": false,
+      "shirt_number": 5,
+      "position": "Defender"
+    },
+    {
+      "name": "MOHAMMED ALBURAYK",
+      "captain": false,
+      "shirt_number": 6,
+      "position": "Defender"
+    },
+    {
+      "name": "Ali BEIRANVAND",
+      "captain": false,
+      "shirt_number": 1,
+      "position": "Goalie"
+    },
+    {
+      "name": "Roozbeh CHESHMI",
+      "captain": false,
+      "shirt_number": 4,
+      "position": "Defender"
+    },
+    {
+      "name": "Sadio MANE",
+      "captain": true,
+      "shirt_number": 10,
+      "position": "Forward"
+    },
+    {
+      "name": "Andreas CHRISTENSEN",
+      "captain": false,
+      "shirt_number": 6,
+      "position": "Defender"
+    },
+    {
+      "name": "NACHO",
+      "captain": false,
+      "shirt_number": 4,
+      "position": "Defender"
+    },
+    {
+      "name": "Gerard PIQUE",
+      "captain": false,
+      "shirt_number": 3,
+      "position": "Defender"
+    },
+    {
+      "name": "Birkir SAEVARSSON",
+      "captain": false,
+      "shirt_number": 2,
+      "position": "Defender"
+    },
+    {
+      "name": "Sari VAN VEENENDAAL",
+      "captain": true,
+      "shirt_number": 1,
+      "position": "Goalie"
+    },
+    {
+      "name": "Sukanya CHOR CHAROENYING",
+      "captain": false,
+      "shirt_number": 18,
+      "position": "Goalie"
+    },
+    {
+      "name": "Luka JOVIC",
+      "captain": false,
+      "shirt_number": 19,
+      "position": "Forward"
+    },
+    {
+      "name": "Vladimir STOJKOVIC",
+      "captain": false,
+      "shirt_number": 1,
+      "position": "Goalie"
+    }
+  ]
+}

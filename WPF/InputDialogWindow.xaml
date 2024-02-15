@@ -1,0 +1,22 @@
+﻿<Window x:Class="WPF.InputDialogWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF"
+        mc:Ignorable="d"
+        Title="Input Dialog" Height="150" Width="300">
+    <Grid >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <TextBlock Text="Enter your text:" Margin="10" Grid.Row="0"/>
+        <TextBox x:Name="inputTextBox" Margin="10" Grid.Row="1"/>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="10" Grid.Row="2">
+            <Button Content="OK" IsDefault="True" Click="OK_Click"/>
+            <Button Content="Cancel" IsCancel="True" Click="Cancel_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

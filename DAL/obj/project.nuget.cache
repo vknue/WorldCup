@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VA4tyWepr+gx29dZYjkcqrYBxLk6zbQSc1KDC+ev5VMsR24m7hmWS0Yb89lBI4MtwFS24vrejDzYDsnym0dfdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\valon\\Documents\\Algebra\\Semestar 4\\.NET\\WorldCup\\DAL\\DAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\valon\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

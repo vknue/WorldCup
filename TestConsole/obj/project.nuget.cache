@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "55Yuysy7V+0F7V4oE5v29uOWL4+eMcpUnsY0fxGwHU/v4KOMmPZlCnzNq7n44L7GpUlcn9/pS8LqbJbamoc0zg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\valon\\Documents\\Algebra\\Semestar 4\\.NET\\WorldCup\\TestConsole\\TestConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\valon\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

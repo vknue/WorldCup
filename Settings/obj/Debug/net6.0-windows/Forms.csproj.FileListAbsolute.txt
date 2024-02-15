@@ -1,0 +1,58 @@
+C:\Users\valon\source\repos\NewRepo\WorldCup\Settings\obj\Debug\net6.0-windows\Forms.csproj.AssemblyReference.cache
+C:\Users\valon\source\repos\NewRepo\WorldCup\Settings\obj\Debug\net6.0-windows\Forms.Properties.Strings.resources
+C:\Users\valon\source\repos\NewRepo\WorldCup\Settings\obj\Debug\net6.0-windows\Forms.Properties.Strings.hr.resources
+C:\Users\valon\source\repos\NewRepo\WorldCup\Settings\obj\Debug\net6.0-windows\Forms.csproj.GenerateResource.cache
+C:\Users\valon\source\repos\NewRepo\WorldCup\Settings\obj\Debug\net6.0-windows\Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valon\source\repos\NewRepo\WorldCup\Settings\obj\Debug\net6.0-windows\Forms.AssemblyInfoInputs.cache
+C:\Users\valon\source\repos\NewRepo\WorldCup\Settings\obj\Debug\net6.0-windows\Forms.AssemblyInfo.cs
+C:\Users\valon\source\repos\NewRepo\WorldCup\Settings\obj\Debug\net6.0-windows\Forms.csproj.CoreCompileInputs.cache
+C:\Users\valon\source\repos\NewRepo\WorldCup\Settings\bin\Debug\net6.0-windows\Forms.exe
+C:\Users\valon\source\repos\NewRepo\WorldCup\Settings\bin\Debug\net6.0-windows\Forms.deps.json
+C:\Users\valon\source\repos\NewRepo\WorldCup\Settings\bin\Debug\net6.0-windows\Forms.runtimeconfig.json
+C:\Users\valon\source\repos\NewRepo\WorldCup\Settings\bin\Debug\net6.0-windows\Forms.dll
+C:\Users\valon\source\repos\NewRepo\WorldCup\Settings\bin\Debug\net6.0-windows\Forms.pdb
+C:\Users\valon\source\repos\NewRepo\WorldCup\Settings\bin\Debug\net6.0-windows\hr\Forms.resources.dll
+C:\Users\valon\source\repos\NewRepo\WorldCup\Settings\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\valon\source\repos\NewRepo\WorldCup\Settings\bin\Debug\net6.0-windows\DAL.dll
+C:\Users\valon\source\repos\NewRepo\WorldCup\Settings\bin\Debug\net6.0-windows\DAL.pdb
+C:\Users\valon\source\repos\NewRepo\WorldCup\Settings\obj\Debug\net6.0-windows\hr\Forms.resources.dll
+C:\Users\valon\source\repos\NewRepo\WorldCup\Settings\obj\Debug\net6.0-windows\Forms.csproj.CopyComplete
+C:\Users\valon\source\repos\NewRepo\WorldCup\Settings\obj\Debug\net6.0-windows\Forms.dll
+C:\Users\valon\source\repos\NewRepo\WorldCup\Settings\obj\Debug\net6.0-windows\refint\Forms.dll
+C:\Users\valon\source\repos\NewRepo\WorldCup\Settings\obj\Debug\net6.0-windows\Forms.pdb
+C:\Users\valon\source\repos\NewRepo\WorldCup\Settings\obj\Debug\net6.0-windows\Forms.genruntimeconfig.cache
+C:\Users\valon\source\repos\NewRepo\WorldCup\Settings\obj\Debug\net6.0-windows\ref\Forms.dll
+C:\Users\valon\source\repos\NewRepo\WorldCup\Settings\obj\Debug\net6.0-windows\Forms.Properties.Resources.resources
+C:\Users\valon\source\repos\NewRepo\WorldCup\Settings\obj\Debug\net6.0-windows\Settings.SettingsForm.resources
+C:\Users\valon\source\repos\NewRepo\WorldCup\Settings\obj\Debug\net6.0-windows\Forms.HomeForm.resources
+C:\Users\valon\source\repos\NewRepo\WorldCup\Settings\obj\Debug\net6.0-windows\Forms.Properties.Preferences.resources
+C:\Users\valon\Documents\Algebra\Semestar 4\.NET\WorldCup\Settings\bin\Debug\net6.0-windows\Forms.exe
+C:\Users\valon\Documents\Algebra\Semestar 4\.NET\WorldCup\Settings\bin\Debug\net6.0-windows\Forms.deps.json
+C:\Users\valon\Documents\Algebra\Semestar 4\.NET\WorldCup\Settings\bin\Debug\net6.0-windows\Forms.runtimeconfig.json
+C:\Users\valon\Documents\Algebra\Semestar 4\.NET\WorldCup\Settings\bin\Debug\net6.0-windows\Forms.dll
+C:\Users\valon\Documents\Algebra\Semestar 4\.NET\WorldCup\Settings\bin\Debug\net6.0-windows\Forms.pdb
+C:\Users\valon\Documents\Algebra\Semestar 4\.NET\WorldCup\Settings\bin\Debug\net6.0-windows\hr\Forms.resources.dll
+C:\Users\valon\Documents\Algebra\Semestar 4\.NET\WorldCup\Settings\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\valon\Documents\Algebra\Semestar 4\.NET\WorldCup\Settings\bin\Debug\net6.0-windows\DAL.dll
+C:\Users\valon\Documents\Algebra\Semestar 4\.NET\WorldCup\Settings\bin\Debug\net6.0-windows\DAL.pdb
+C:\Users\valon\Documents\Algebra\Semestar 4\.NET\WorldCup\Settings\obj\Debug\net6.0-windows\Forms.csproj.AssemblyReference.cache
+C:\Users\valon\Documents\Algebra\Semestar 4\.NET\WorldCup\Settings\obj\Debug\net6.0-windows\Forms.HomeForm.resources
+C:\Users\valon\Documents\Algebra\Semestar 4\.NET\WorldCup\Settings\obj\Debug\net6.0-windows\Forms.Properties.Preferences.resources
+C:\Users\valon\Documents\Algebra\Semestar 4\.NET\WorldCup\Settings\obj\Debug\net6.0-windows\Forms.Properties.Resources.resources
+C:\Users\valon\Documents\Algebra\Semestar 4\.NET\WorldCup\Settings\obj\Debug\net6.0-windows\Forms.Properties.Strings.resources
+C:\Users\valon\Documents\Algebra\Semestar 4\.NET\WorldCup\Settings\obj\Debug\net6.0-windows\Settings.SettingsForm.resources
+C:\Users\valon\Documents\Algebra\Semestar 4\.NET\WorldCup\Settings\obj\Debug\net6.0-windows\Forms.Properties.Strings.hr.resources
+C:\Users\valon\Documents\Algebra\Semestar 4\.NET\WorldCup\Settings\obj\Debug\net6.0-windows\Forms.csproj.GenerateResource.cache
+C:\Users\valon\Documents\Algebra\Semestar 4\.NET\WorldCup\Settings\obj\Debug\net6.0-windows\Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valon\Documents\Algebra\Semestar 4\.NET\WorldCup\Settings\obj\Debug\net6.0-windows\Forms.AssemblyInfoInputs.cache
+C:\Users\valon\Documents\Algebra\Semestar 4\.NET\WorldCup\Settings\obj\Debug\net6.0-windows\Forms.AssemblyInfo.cs
+C:\Users\valon\Documents\Algebra\Semestar 4\.NET\WorldCup\Settings\obj\Debug\net6.0-windows\Forms.csproj.CoreCompileInputs.cache
+C:\Users\valon\Documents\Algebra\Semestar 4\.NET\WorldCup\Settings\obj\Debug\net6.0-windows\Forms.sourcelink.json
+C:\Users\valon\Documents\Algebra\Semestar 4\.NET\WorldCup\Settings\obj\Debug\net6.0-windows\hr\Forms.resources.dll
+C:\Users\valon\Documents\Algebra\Semestar 4\.NET\WorldCup\Settings\obj\Debug\net6.0-windows\Forms.csproj.CopyComplete
+C:\Users\valon\Documents\Algebra\Semestar 4\.NET\WorldCup\Settings\obj\Debug\net6.0-windows\Forms.dll
+C:\Users\valon\Documents\Algebra\Semestar 4\.NET\WorldCup\Settings\obj\Debug\net6.0-windows\refint\Forms.dll
+C:\Users\valon\Documents\Algebra\Semestar 4\.NET\WorldCup\Settings\obj\Debug\net6.0-windows\Forms.pdb
+C:\Users\valon\Documents\Algebra\Semestar 4\.NET\WorldCup\Settings\obj\Debug\net6.0-windows\Forms.genruntimeconfig.cache
+C:\Users\valon\Documents\Algebra\Semestar 4\.NET\WorldCup\Settings\obj\Debug\net6.0-windows\ref\Forms.dll
+C:\Users\valon\Documents\Algebra\Semestar 4\.NET\WorldCup\Settings\obj\Debug\net6.0-windows\Forms.UserControls.PlayerCard.resources

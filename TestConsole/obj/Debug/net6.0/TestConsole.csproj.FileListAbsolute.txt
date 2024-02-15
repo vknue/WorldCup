@@ -1,0 +1,39 @@
+C:\Users\valon\source\repos\NewRepo\WorldCup\TestConsole\bin\Debug\net6.0\TestConsole.exe
+C:\Users\valon\source\repos\NewRepo\WorldCup\TestConsole\bin\Debug\net6.0\TestConsole.deps.json
+C:\Users\valon\source\repos\NewRepo\WorldCup\TestConsole\bin\Debug\net6.0\TestConsole.runtimeconfig.json
+C:\Users\valon\source\repos\NewRepo\WorldCup\TestConsole\bin\Debug\net6.0\TestConsole.dll
+C:\Users\valon\source\repos\NewRepo\WorldCup\TestConsole\bin\Debug\net6.0\TestConsole.pdb
+C:\Users\valon\source\repos\NewRepo\WorldCup\TestConsole\obj\Debug\net6.0\TestConsole.csproj.AssemblyReference.cache
+C:\Users\valon\source\repos\NewRepo\WorldCup\TestConsole\obj\Debug\net6.0\TestConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valon\source\repos\NewRepo\WorldCup\TestConsole\obj\Debug\net6.0\TestConsole.AssemblyInfoInputs.cache
+C:\Users\valon\source\repos\NewRepo\WorldCup\TestConsole\obj\Debug\net6.0\TestConsole.AssemblyInfo.cs
+C:\Users\valon\source\repos\NewRepo\WorldCup\TestConsole\obj\Debug\net6.0\TestConsole.csproj.CoreCompileInputs.cache
+C:\Users\valon\source\repos\NewRepo\WorldCup\TestConsole\obj\Debug\net6.0\TestConsole.dll
+C:\Users\valon\source\repos\NewRepo\WorldCup\TestConsole\obj\Debug\net6.0\refint\TestConsole.dll
+C:\Users\valon\source\repos\NewRepo\WorldCup\TestConsole\obj\Debug\net6.0\TestConsole.pdb
+C:\Users\valon\source\repos\NewRepo\WorldCup\TestConsole\obj\Debug\net6.0\TestConsole.genruntimeconfig.cache
+C:\Users\valon\source\repos\NewRepo\WorldCup\TestConsole\obj\Debug\net6.0\ref\TestConsole.dll
+C:\Users\valon\source\repos\NewRepo\WorldCup\TestConsole\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\valon\source\repos\NewRepo\WorldCup\TestConsole\bin\Debug\net6.0\DAL.dll
+C:\Users\valon\source\repos\NewRepo\WorldCup\TestConsole\bin\Debug\net6.0\DAL.pdb
+C:\Users\valon\source\repos\NewRepo\WorldCup\TestConsole\obj\Debug\net6.0\TestConsole.csproj.CopyComplete
+C:\Users\valon\Documents\Algebra\Semestar 4\.NET\WorldCup\TestConsole\bin\Debug\net6.0\TestConsole.exe
+C:\Users\valon\Documents\Algebra\Semestar 4\.NET\WorldCup\TestConsole\bin\Debug\net6.0\TestConsole.deps.json
+C:\Users\valon\Documents\Algebra\Semestar 4\.NET\WorldCup\TestConsole\bin\Debug\net6.0\TestConsole.runtimeconfig.json
+C:\Users\valon\Documents\Algebra\Semestar 4\.NET\WorldCup\TestConsole\bin\Debug\net6.0\TestConsole.dll
+C:\Users\valon\Documents\Algebra\Semestar 4\.NET\WorldCup\TestConsole\bin\Debug\net6.0\TestConsole.pdb
+C:\Users\valon\Documents\Algebra\Semestar 4\.NET\WorldCup\TestConsole\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\valon\Documents\Algebra\Semestar 4\.NET\WorldCup\TestConsole\bin\Debug\net6.0\DAL.dll
+C:\Users\valon\Documents\Algebra\Semestar 4\.NET\WorldCup\TestConsole\bin\Debug\net6.0\DAL.pdb
+C:\Users\valon\Documents\Algebra\Semestar 4\.NET\WorldCup\TestConsole\obj\Debug\net6.0\TestConsole.csproj.AssemblyReference.cache
+C:\Users\valon\Documents\Algebra\Semestar 4\.NET\WorldCup\TestConsole\obj\Debug\net6.0\TestConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valon\Documents\Algebra\Semestar 4\.NET\WorldCup\TestConsole\obj\Debug\net6.0\TestConsole.AssemblyInfoInputs.cache
+C:\Users\valon\Documents\Algebra\Semestar 4\.NET\WorldCup\TestConsole\obj\Debug\net6.0\TestConsole.AssemblyInfo.cs
+C:\Users\valon\Documents\Algebra\Semestar 4\.NET\WorldCup\TestConsole\obj\Debug\net6.0\TestConsole.csproj.CoreCompileInputs.cache
+C:\Users\valon\Documents\Algebra\Semestar 4\.NET\WorldCup\TestConsole\obj\Debug\net6.0\TestConsole.sourcelink.json
+C:\Users\valon\Documents\Algebra\Semestar 4\.NET\WorldCup\TestConsole\obj\Debug\net6.0\TestConsole.csproj.CopyComplete
+C:\Users\valon\Documents\Algebra\Semestar 4\.NET\WorldCup\TestConsole\obj\Debug\net6.0\TestConsole.dll
+C:\Users\valon\Documents\Algebra\Semestar 4\.NET\WorldCup\TestConsole\obj\Debug\net6.0\refint\TestConsole.dll
+C:\Users\valon\Documents\Algebra\Semestar 4\.NET\WorldCup\TestConsole\obj\Debug\net6.0\TestConsole.pdb
+C:\Users\valon\Documents\Algebra\Semestar 4\.NET\WorldCup\TestConsole\obj\Debug\net6.0\TestConsole.genruntimeconfig.cache
+C:\Users\valon\Documents\Algebra\Semestar 4\.NET\WorldCup\TestConsole\obj\Debug\net6.0\ref\TestConsole.dll

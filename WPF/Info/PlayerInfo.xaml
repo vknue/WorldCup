@@ -1,0 +1,52 @@
+﻿<Window x:Class="WPF.Info.PlayerInfo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF"
+        mc:Ignorable="d"
+        Title="PlayerInfo" Height="450" Width="400">
+
+    <Window.Resources>
+        <Storyboard x:Key="OpenAnimation">
+            <DoubleAnimation Storyboard.TargetProperty="Opacity" From="0" To="1" Duration="0:0:0.3"/>
+        </Storyboard>
+    </Window.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40" />
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBlock x:Name="lblPlayerInformation" Text="Player Information" FontWeight="Bold" FontSize="16"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="1" Margin="10">
+            <Image x:Name ="imgPlayerImage" 
+Source="C:\Users\valon\Documents\Algebra\Semestar 4\.NET\profilePictureBackholder.png"
+Stretch="UniformToFill"
+       Width="100"
+       HorizontalAlignment="Center"
+/>
+            <TextBlock x:Name="lblPlayerName" Text="Player Name" FontWeight="Bold"/>
+            <TextBlock x:Name="txtPlayerName" Margin="0,0,0,10"/>
+
+            <TextBlock x:Name="lblShirtNumber" Text="Shirt Number" FontWeight="Bold"/>
+            <TextBlock x:Name="txtShirtNumber" Margin="0,0,0,10"/>
+
+            <TextBlock x:Name="lblPosition" Text="Position" FontWeight="Bold"/>
+            <TextBlock x:Name="txtPosition" Margin="0,0,0,10"/>
+
+            <TextBlock x:Name="lblIsCaptain" Text="Captain" FontWeight="Bold"/>
+            <TextBlock x:Name="txtIsCaptain" Margin="0,0,0,10"/>
+
+            <TextBlock x:Name="lblGoalsScored" Text="Goals Scored" FontWeight="Bold"/>
+            <TextBlock x:Name="txtGoalsScored" Margin="0,0,0,10"/>
+
+            <TextBlock x:Name="lblYellowCards" Text="Yellow Cards" FontWeight="Bold"/>
+            <TextBlock x:Name="txtYellowCards" Margin="0,0,0,10"/>
+        </StackPanel>
+    </Grid>
+</Window>

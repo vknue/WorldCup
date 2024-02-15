@@ -1,0 +1,56 @@
+﻿<Window x:Class="WPF.Info.TeamInfo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF.Info"
+        mc:Ignorable="d"
+        Title="TeamInfo" Height="450" Width="300" ResizeMode="NoResize">
+    <Window.Resources>
+        <Storyboard x:Key="OpenAnimation">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="RenderTransform.(ScaleTransform.ScaleX)">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.3" Value="1"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="RenderTransform.(ScaleTransform.ScaleY)">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.3" Value="1"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+    </Window.Resources>
+    <Grid>
+        
+
+        <StackPanel>
+            <TextBlock Text="Team Information" FontWeight="Bold" FontSize="16" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,0,0,10"/>
+            
+            <TextBlock Text="Name:"/>
+            <TextBox x:Name="txtTeamName" IsReadOnly="True" Margin="0,0,0,5"/>
+
+            <TextBlock Text="FIFA Code:"/>
+            <TextBox x:Name="txtFifaCode" IsReadOnly="True" Margin="0,0,0,5"/>
+
+            <TextBlock Text="Games:"/>
+            <TextBox x:Name="txtGames" IsReadOnly="True" Margin="0,0,0,5"/>
+
+            <TextBlock Text="Wins:"/>
+            <TextBox x:Name="txtWins" IsReadOnly="True" Margin="0,0,0,5"/>
+
+            <TextBlock Text="Losses:"/>
+            <TextBox x:Name="txtLosses" IsReadOnly="True" Margin="0,0,0,5"/>
+
+            <TextBlock Text="Draws:"/>
+            <TextBox x:Name="txtDraws" IsReadOnly="True" Margin="0,0,0,5"/>
+
+            <TextBlock Text="Goals Scored:"/>
+            <TextBox x:Name="txtGoalsScored" IsReadOnly="True" Margin="0,0,0,5"/>
+
+            <TextBlock Text="Goals Conceded:"/>
+            <TextBox x:Name="txtGoalsConceded" IsReadOnly="True" Margin="0,0,0,5"/>
+
+            <TextBlock Text="Goal Difference:"/>
+            <TextBox x:Name="txtGoalDifference" IsReadOnly="True" Margin="0,0,0,5"/>
+        </StackPanel>
+    </Grid>
+
+</Window>
